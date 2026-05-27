@@ -7,7 +7,7 @@ human fMRI data.
 
 ## Paper
 
-[Md Rashedur Rahman] (2024). Reproducible Zero-Shot Decoding of Conceptual 
+[Md Rashedur Rahman] (2026). Reproducible Zero-Shot Decoding of Conceptual 
 Knowledge from Human fMRI: A Systematic Evaluation of the Semantic 
 Output Code Framework. PLOS ONE (under review).
 

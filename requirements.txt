@@ -1,0 +1,11 @@
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-console==6.1.0
+jupyter-core==4.6.3
+jupyterlab==2.1.5
+jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+matplotlib @ file:///opt/concourse/worker/volumes/live/59859a4b-794b-4c9f-51fd-a0ac1d1ab595/volume/matplotlib-base_1592846058943/work
+numpy==1.23.4
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/47a3ec7c-70dc-43c0-7317-def24a8afaf5/volume/scikit-learn_1592503037057/work
+scipy @ file:///opt/concourse/worker/volumes/live/7f5e51f8-abf3-4409-4c56-a4fb14cc9869/volume/scipy_1593104185999/work
